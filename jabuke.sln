@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jabuke", "jabuke\jabuke.csproj", "{5769F557-D10D-4683-8D35-E64AD8ACA93B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5769F557-D10D-4683-8D35-E64AD8ACA93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5769F557-D10D-4683-8D35-E64AD8ACA93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5769F557-D10D-4683-8D35-E64AD8ACA93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5769F557-D10D-4683-8D35-E64AD8ACA93B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72C65D94-424E-4F48-8576-4BD7219F7C24}
+	EndGlobalSection
+EndGlobal
