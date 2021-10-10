@@ -1,0 +1,15 @@
+C:\Users\Nikola\source\repos\jabuke\jabuke\bin\Debug\net5.0\jabuke.exe
+C:\Users\Nikola\source\repos\jabuke\jabuke\bin\Debug\net5.0\jabuke.deps.json
+C:\Users\Nikola\source\repos\jabuke\jabuke\bin\Debug\net5.0\jabuke.runtimeconfig.json
+C:\Users\Nikola\source\repos\jabuke\jabuke\bin\Debug\net5.0\jabuke.runtimeconfig.dev.json
+C:\Users\Nikola\source\repos\jabuke\jabuke\bin\Debug\net5.0\jabuke.dll
+C:\Users\Nikola\source\repos\jabuke\jabuke\bin\Debug\net5.0\ref\jabuke.dll
+C:\Users\Nikola\source\repos\jabuke\jabuke\bin\Debug\net5.0\jabuke.pdb
+C:\Users\Nikola\source\repos\jabuke\jabuke\obj\Debug\net5.0\jabuke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\jabuke\jabuke\obj\Debug\net5.0\jabuke.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\jabuke\jabuke\obj\Debug\net5.0\jabuke.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\jabuke\jabuke\obj\Debug\net5.0\jabuke.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\jabuke\jabuke\obj\Debug\net5.0\jabuke.dll
+C:\Users\Nikola\source\repos\jabuke\jabuke\obj\Debug\net5.0\ref\jabuke.dll
+C:\Users\Nikola\source\repos\jabuke\jabuke\obj\Debug\net5.0\jabuke.pdb
+C:\Users\Nikola\source\repos\jabuke\jabuke\obj\Debug\net5.0\jabuke.genruntimeconfig.cache
